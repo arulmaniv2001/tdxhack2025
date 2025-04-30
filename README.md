@@ -2,6 +2,7 @@ Salesforce-Powered Smart Health Assistant: Patient Glucose Monitoring Use Case
  
 Link to our TDX Salesforce Hackathon Presentation
  - https://docs.google.com/presentation/d/10lSpLo0h_QG9Yfs1OPwQ9SevfnvvI9F-/edit?usp=sharing&ouid=104336907052833755836&rtpof=true&sd=true
+
 Link to our Youtube recording
  - https://youtu.be/aogV-ZihCqw
  
